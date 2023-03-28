@@ -1,0 +1,13 @@
+dvgups\controllers\DisciplineController.class
+dvgups\DBHandler.class
+dvgups\controllers\GradeController.class
+dvgups\servlets\GradesServlet.class
+dvgups\servlets\UsersServlet.class
+dvgups\servlets\DisciplinesServlet.class
+dvgups\models\User.class
+dvgups\controllers\RoleController.class
+dvgups\controllers\UserController.class
+dvgups\models\Student.class
+dvgups\models\Teacher.class
+dvgups\models\Discipline.class
+dvgups\models\Grade.class
